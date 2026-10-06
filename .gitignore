@@ -1,0 +1,47 @@
+# Byte-compiled / cached files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Packaging / build artifacts
+build/
+dist/
+*.egg-info/
+
+# Test and coverage artifacts
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# Editors and IDEs
+.vs/
+.vscode/
+.idea/
+*.sln
+*.pyproj
+*.pyproj.user
+*.suo
+*.user
+
+# OS clutter
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Course documents: assignment brief, report and slides are not published
+*.pdf
+*.pptx
+*.docx
+~$*
+
+# Generated output
+output/
+*.log
+results*.txt
